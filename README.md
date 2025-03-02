@@ -25,9 +25,7 @@ This repository is created to showcase fundamental Pandas skills, including data
 🔹 Data Visualization: Creating charts with Pandas & Matplotlib
 
 🔹 Exporting Data: Saving DataFrames to CSV, Excel, JSON
-
-🔹 IDE: Visual Studio Code & Jupyter Notebook 
-
+🔹 IDE: Visual Studio Code & Jupyter Notebook
 
 # 📢 Future Updates
 I will continue updating this repository as I explore more Pandas concepts and techniques. Stay tuned for advanced data analysis projects! 🚀✨
