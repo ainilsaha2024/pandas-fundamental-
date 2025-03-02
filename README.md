@@ -26,7 +26,7 @@ This repository is created to showcase fundamental Pandas skills, including data
 
 🔹 Exporting Data: Saving DataFrames to CSV, Excel, JSON
 
-🔹 IDE: Visual Studio Code & Jupyter Notebook
+🔹 IDE: Visual Studio Code & Jupyter Notebook 
 
 
 # 📢 Future Updates
