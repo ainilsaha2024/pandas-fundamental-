@@ -11,14 +11,23 @@ This repository is created to showcase fundamental Pandas skills, including data
 # 📂 Contents
 
 🔹 Getting Started: Installing Pandas, importing libraries
+
 🔹 Data Structures: Series and DataFrames basics
+
 🔹 Data Manipulation: Selecting, filtering, and transforming data
+
 🔹 Handling Missing Data: Filling and removing null values
+
 🔹 Grouping & Aggregation: Summarizing data efficiently
+
 🔹 Merging & Joining: Combining multiple datasets
+
 🔹 Data Visualization: Creating charts with Pandas & Matplotlib
+
 🔹 Exporting Data: Saving DataFrames to CSV, Excel, JSON
+
 🔹 IDE: Visual Studio Code & Jupyter Notebook
+
 
 # 📢 Future Updates
 I will continue updating this repository as I explore more Pandas concepts and techniques. Stay tuned for advanced data analysis projects! 🚀✨
